@@ -1,26 +1,23 @@
-
-
 # 🦀 MangueSound
 
- CookHub é um simples programa feito em python sem o uso de libs para ajudar Rafael a organizar suas receitas em um só lugar!
-
+ChatGPT
+O MangueSound é um protótipo de Arduino autoral, projetado para proporcionar acessibilidade cultural a pessoas com deficiência visual. Focado no enriquecimento da cultura pernambucana, ele oferece uma experiência sensorial única através do Circuito da Poesia, permitindo que usuários explorem e absorvam o rico patrimônio poético da região de forma interativa e inclusiva.
 
 
 ## 📺 Demo
 
-![Demo gif](https://github.com/davimqz/Projeto-1/assets/160409868/3ce1cacc-eefb-4357-ac4a-0b20974587eb
+![GIF de utilização](https://github.com/davimqz/Projeto-1/assets/160409868/3ce1cacc-eefb-4357-ac4a-0b20974587eb
 )
-
-
 
 
 ## 🖱️ Modo de Uso
 
 ```
-
+1º passo - Utilizar o protótipo estilo "Shoulder Bag"
+2º passo - Colocar os fones de ouvidos
+3º passo - Aproximar a face transparente do protótipo ao TOTEM desejado
+4º passo - Aproveitar o processo de endoculturação 
 ```
-
-
 
 ## 🎯 Tecnologias Utilizadas
 
@@ -49,6 +46,8 @@ Linguagem - Arduíno => **C++**
 [📄 Google Sites](https://sites.google.com/cesar.school/projeto1g18/status-report-2)
 
 [📄 Miro](https://miro.com/app/board/uXjVNhyEkrA=/)
+
+[📄 Artigo Tutorial](https://docs.google.com/document/d/15gwvMzpmFrWJf3u7feJsscYYtUyy2JT0z45cMhVVo4o/edit#heading=h.3qu7i54zi4hm)
 
 ## 👥 Integrantes
 
